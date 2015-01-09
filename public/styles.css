@@ -1,0 +1,21 @@
+body {
+  background-image: url("text_bg.gif");
+}
+
+.container {
+  background-color: #fff;
+  width: 60%;
+  margin: 10% auto;
+  border: 2px solid #000;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+h4 {
+  font-style: italic;
+}
+
+.content {
+  margin-top: 25px;
+}
